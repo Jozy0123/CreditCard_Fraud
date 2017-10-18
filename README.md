@@ -22,4 +22,4 @@ Hyperparameters tuning might be able to increase the overall prediction accuracy
 A three layer deep neural network (hidden units: 10, 20, and 10) was used to fit the trainining set. The fitted model was evaluated via predicating the class of test set examples. The result showed that area under precision and recall curve (good indicator for imbalanced dataset) was 0.82. Tuning with hyperparameters could even further help to improve the performance. 
 
 ## Conclusion:
-Even without the original information and after dropping one variable, deep neurual network still managed to achieve a reason performance. It is much better than Logistica Regression and Random Forest.
+Even without the original information and after dropping one variable, deep neurual network still managed to achieve a reasonable performance. It is much better than Logistica Regression and Random Forest.
